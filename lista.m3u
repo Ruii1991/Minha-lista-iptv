@@ -1,0 +1,7 @@
+m3u
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="NASA TV",NASA TV
+
+https://ntv1.akamaized.net/hls/live/2014561/NASA
