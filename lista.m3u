@@ -5,3 +5,26 @@ m3u
 #EXTINF:-1 tvg-name="NASA TV",NASA TV
 
 https://ntv1.akamaized.net/hls/live/2014561/NASA
+#EXTINF:-1 group-title="DESPORTO",Canal 11 Internacional
+
+https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8
+
+#EXTINF:-1 group-title="DESPORTO",FIFA+
+
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="DESPORTO",Real Madrid TV
+
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="DESPORTO",Fuel TV
+
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+#EXTINF:-1 group-title="DESPORTO",Red Bull TV
+
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="DESPORTO",Motorvision
+
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u
