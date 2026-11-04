@@ -2,8 +2,6 @@ m3u
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="NASA TV",NASA TV
-https://ntv1.akamaized.net/hls/live/2014561/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="DESPORTO",Canal 11 Internacional
 
 https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8
